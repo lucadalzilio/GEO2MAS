@@ -8,6 +8,7 @@ Seismic behaviour of mountain belts controlled by plate convergence rate.
 Earth and Planetary Science Letters, 482, 81-92.
 
 =====================================================
+
 To run stm-2d on ETH Euler:
 
 1. Load modules
