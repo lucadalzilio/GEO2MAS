@@ -1,0 +1,9 @@
+rm fricprop_channel_luca_fr*
+rm luca*1.gzip.h5
+rm luca*2.gzip.h5
+rm luca*3.gzip.h5
+rm luca*4.gzip.h5
+rm luca*6.gzip.h5
+rm luca*7.gzip.h5
+rm luca*8.gzip.h5
+rm luca*9.gzip.h5
