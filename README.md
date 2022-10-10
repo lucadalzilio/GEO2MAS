@@ -7,6 +7,8 @@ Dal Zilio, L., van Dinther, Y., Gerya, T. V., and Pranger, C. C. (2018).
 Seismic behaviour of mountain belts controlled by plate convergence rate. 
 Earth and Planetary Science Letters, 482, 81-92.
 
+![examples](https://github.com/lucadalzilio/GEO2MAS/blob/main/banner/banner.png)
+
 =====================================================
 
 To run stm-2d on ETH Euler:
